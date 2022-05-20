@@ -69,10 +69,10 @@
 </tr>
 <tr>
 <td>
-<img src = "https://user-images.githubusercontent.com/70435257/146948350-77e9bc78-93ed-4fb6-89ba-7d5dbfd7eaa9.gif" width="300px" height= "500px" />
+<img src = "https://user-images.githubusercontent.com/70435257/146948673-f42756e6-5768-4795-85fb-267736475667.gif" width="300px" height="500px" />
 </td>
 <td>
-<img src = "https://user-images.githubusercontent.com/70435257/146948673-f42756e6-5768-4795-85fb-267736475667.gif" width="300px" height="500px" />
+<img src = "https://user-images.githubusercontent.com/70435257/146948350-77e9bc78-93ed-4fb6-89ba-7d5dbfd7eaa9.gif" width="300px" height= "500px" />
 </td>
 </tr>
 <tr>
